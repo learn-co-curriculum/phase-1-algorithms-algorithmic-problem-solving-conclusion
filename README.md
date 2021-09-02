@@ -1,6 +1,17 @@
 # Algorithmic Problem Solving Conclusion
 
-Congrats on getting through this section! You've learned some extremely valuable skills in terms of being able to tackle challenging problems and identify what good code looks like. You're well on your way to mastering your first algorithm interview! To recap, we covered:
+## Learning Goals
+
+- Review what you learned in this section
+
+## Conclusion
+
+Congrats on getting through this section! You've learned some extremely valuable
+skills in terms of being able to tackle challenging problems and identify what
+good code looks like. You're well on your way to mastering your first algorithm
+interview!
+
+To recap, we covered:
 
 - Define what "algorithm" means
 - Develop a process for algorithmic problem solving
