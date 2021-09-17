@@ -11,7 +11,7 @@ skills in terms of being able to tackle challenging problems and identify what
 good code looks like. You're well on your way to mastering your first algorithm
 interview!
 
-To recap, we covered:
+To recap, we covered these learning objectives:
 
 - Define what "algorithm" means
 - Develop a process for algorithmic problem solving
@@ -53,7 +53,7 @@ Our recommendation is to work on the following sections between now and Phase 4:
 - Week 2: Recursion
 - Week 3: Additional Practice
 - Week 4: Big O Notation
-- Week 5: Big O Continued
+- Week 5: Sorting Algorithms
 
 The material from Week 6 and onward gets into Data Structures, which we'll cover
 in more depth in Phase 4.
